@@ -1,3 +1,11 @@
+// HomeWork Javascript 2
+// Buat dan jelaskanlah 5 method bawaan JavaScript 
+// (Built-in Functions) beserta contoh penggunaannya
+
+
+// ====================================================//
+
+
 //Method (concat, pop, splice, slice, shift)
 
 
